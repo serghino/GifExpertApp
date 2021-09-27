@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test component <GifGrid /> should show <GifGrid /> correctly 1`] = `
+<Fragment>
+  <div
+    className="gridTitle"
+  >
+    <h3
+      className="animate__animated animate__fadeIn"
+    >
+       
+      simpsons
+       
+    </h3>
+    <p>
+      <b>
+        Total
+      </b>
+      : 
+      0
+    </p>
+  </div>
+  <p
+    className="animate__animated animate__flash"
+  >
+    Loading
+  </p>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;
+
+exports[`Test component <GifGrid /> should show up the items from category value using Fetch Gifs 1`] = `
+<Fragment>
+  <div
+    className="gridTitle"
+  >
+    <h3
+      className="animate__animated animate__fadeIn"
+    >
+       
+      simpsons
+       
+    </h3>
+    <p>
+      <b>
+        Total
+      </b>
+      : 
+      1
+    </p>
+  </div>
+  <div
+    className="card-grid"
+  >
+    <GifGridItem
+      id="123"
+      key="123"
+      title="ABC"
+      url="http://localhost"
+    />
+  </div>
+</Fragment>
+`;
