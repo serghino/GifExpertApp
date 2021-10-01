@@ -9663,11 +9663,7 @@
     "strip-ansi" "6.0.0"
     "text-table" "0.2.0"
 
-<<<<<<< HEAD
 "react-dom@*", "react-dom@^16.0.0-0", "react-dom@^16.13.1", "react-dom@>=16.9.0":
-=======
-"react-dom@*", "react-dom@^16.0.0-0", "react-dom@^16.13.1":
->>>>>>> 0674c906a3860bf199195490dee14cd8361b3f98
   "integrity" "sha512-81PIMmVLnCNLO/fFOQxdQkvEq/+Hfpv24XNJfpyZhTRfO0QcmQIF/PgCa1zCOj2w1hrn12MFLyaJ/G0+Mxtfag=="
   "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-16.13.1.tgz"
   "version" "16.13.1"
@@ -9770,11 +9766,7 @@
   optionalDependencies:
     "fsevents" "^2.1.3"
 
-<<<<<<< HEAD
 "react-test-renderer@^16.0.0-0", "react-test-renderer@>=16.9.0":
-=======
-"react-test-renderer@^16.0.0-0":
->>>>>>> 0674c906a3860bf199195490dee14cd8361b3f98
   "integrity" "sha512-L8yPjqPE5CZO6rKsKXRO/rVPiaCOy0tQQJbC+UjPNlobl5mad59lvPjwFsQHTvL03caVDIVr9x9/OSgDe6I5Eg=="
   "resolved" "https://registry.npmjs.org/react-test-renderer/-/react-test-renderer-16.14.0.tgz"
   "version" "16.14.0"
@@ -9784,11 +9776,7 @@
     "react-is" "^16.8.6"
     "scheduler" "^0.19.1"
 
-<<<<<<< HEAD
 "react@*", "react@^0.14 || ^15.0.0 || ^16.0.0-alpha", "react@^16.0.0-0", "react@^16.13.1", "react@^16.14.0", "react@>= 16", "react@>=16.13.1", "react@>=16.9.0", "react@0.13.x || 0.14.x || ^15.0.0-0 || ^16.0.0-0":
-=======
-"react@*", "react@^0.14 || ^15.0.0 || ^16.0.0-alpha", "react@^16.0.0-0", "react@^16.13.1", "react@^16.14.0", "react@>= 16", "react@0.13.x || 0.14.x || ^15.0.0-0 || ^16.0.0-0":
->>>>>>> 0674c906a3860bf199195490dee14cd8361b3f98
   "integrity" "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g=="
   "resolved" "https://registry.npmjs.org/react/-/react-16.14.0.tgz"
   "version" "16.14.0"
