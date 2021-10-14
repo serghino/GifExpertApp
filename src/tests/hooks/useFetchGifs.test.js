@@ -21,7 +21,7 @@ describe("Test component <useFetchGifs />", () => {
     const {data, loading, total} = result.current;
     expect(data.length).toEqual(20);
     expect(loading).toBe(false);
-    expect(total).toBe(3972);
+    expect(total).toBeGreaterThanOrEqual(3977);
    })
    
 });
